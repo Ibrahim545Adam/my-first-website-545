@@ -1,0 +1,24 @@
+body {
+    background-color: skyblue ;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    border-radius: 12px;
+    border: 4px solidred;
+}
+h1 {
+    color: rgb(130, 216, 60);
+    text-align: center;
+}
+h2 {
+    color:red;
+}
+p {
+    font-size: 24px;
+}
+button:hover {
+    background-color: black;
+    color: rgb(145, 12, 67);
+    padding: 10px 20px;
+    border: none;
+}
